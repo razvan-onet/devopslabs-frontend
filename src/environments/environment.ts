@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  PATH_BASE_URL: 'http://15.188.47.232:4000/api'
+  PATH_BASE_URL: 'http://15.161.102.166:4000/api'
 };
 
 /*
